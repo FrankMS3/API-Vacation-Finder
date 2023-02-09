@@ -1,4 +1,4 @@
-# Python-api-challenge
+# Using Python APIs to find ideal vacation spots
 Using Python requests and APIs to analyse and visualise weather data about cities around the world. Then from these cities, filtering out those that don't meet our ideal weather for a vacation, finding hotels in the remaining cities and generating a map of these using Google APIs.
 
 Before beginning, make a file named "api_keys.py" and save it in the WeatherPy folder. In it, type your OpenWeather and Google API keys in the format:
