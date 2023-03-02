@@ -1,4 +1,7 @@
 # Using Python APIs to find ideal vacation spots
+
+Languages used: Python (Jupyter Notebook) - using Pandas, Matplotlib, NumPy, SciPy, and Google Maps API  
+
 Using Python requests and APIs to analyse and visualise weather data about cities around the world. Then from these cities, filtering out those that don't meet our ideal weather for a vacation, finding hotels in the remaining cities and generating a map of these using Google APIs.  
   
 <p align="center">
